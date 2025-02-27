@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "my-app",
+    "newArchEnabled": true,
+    "slug": "my-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/simpleMeditationLogo.png",
+    "scheme": "simplemeditation",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/simpleMeditationLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/simpleMeditationLogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mrajayyadav.myapp"
+    },
+    "web": {
+      "favicon": "./assets/simpleMeditationLogo.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ab497e7c-663a-4754-9c32-f3349628be59"
+      }
+    },
+    "owner": "mrajayyadav"
+  }
+}

@@ -2,7 +2,8 @@
 
 A beautifully designed meditation app built using **React Native** and **Expo**, providing a calm and relaxing experience with smooth animations and an intuitive UI.  
 
-![Meditation App Banner](https://via.placeholder.com/800x400)  
+(https://github.com/user-attachments/assets/8d0d565f-a509-45cf-9c41-630cfee25a1a)
+x400)  
 *(Replace with your actual banner image)*  
 
 ---

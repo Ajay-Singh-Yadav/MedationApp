@@ -30,3 +30,26 @@ yarn install
 
 
 expo start
+
+🛠 Built With
+React Native – For cross-platform mobile development
+Expo – For easy development and testing
+React Native Reanimated – For smooth animations
+React Navigation – For seamless navigation
+Async Storage – To save user preferences
+Lottie Animations – For beautiful animated effects
+
+
+🎨 UI/UX Design
+Minimalist & Clean Interface
+Relaxing Color Palette (Soft blues, greens, and purples)
+Smooth Animated Transitions
+
+
+📌 Icons Used
+🧘 Meditation Icon – Home screen
+▶️ Play Button – Start meditation
+⏸️ Pause Button – Pause meditation
+⏳ Timer Icon – Set meditation duration
+⚙️ Settings Icon – Access preferences
+(Icons can be replaced with custom SVGs or FontAwesome icons)
